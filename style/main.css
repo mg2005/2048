@@ -405,37 +405,37 @@ hr {
     font-size: 16px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('../tile-sets/udacity/2.png');
+    background: url('http://i0.kym-cdn.com/entries/icons/facebook/000/000/091/TrollFace.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('../tile-sets/udacity/4.png');
+    background: url('https://i.pinimg.com/236x/a2/4e/be/a24ebe581b38bb2a07664dc4b8af7f25--sienna-troll-face.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../tile-sets/udacity/8.png');
+    background: url('https://i.pinimg.com/474x/b0/9c/88/b09c883adc0863cbcbe1a1ba4cbe134a--gerador-memes-troll-face.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
-    background: url('../tile-sets/udacity/16.png');
+    background: url('https://vignette.wikia.nocookie.net/meme/images/1/14/8C797FB6-091A-47BD-B795-41792EFF5198.png/revision/latest?cb=20171121050623');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/udacity/32.png');
+    background: url('http://thumbs2.ebaystatic.com/d/l225/m/mu7L5FgdXgjYnxQHm6MQJXA.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
-    background: url('../tile-sets/udacity/64.png');
+    background: url('https://lh3.googleusercontent.com/sBCKPKALbJlMtGczEfmgTdL5WmbGEx3Sldbgku-wrw1cORAyYciMYN-7or5ufkXAOwiW=w170');
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -443,7 +443,7 @@ hr {
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
-    background: url('../tile-sets/udacity/128.png');
+    background: url('http://i0.kym-cdn.com/photos/images/facebook/000/030/404/1260585284155.png');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -452,7 +452,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('../tile-sets/udacity/256.png');
+    background: url('http://i0.kym-cdn.com/entries/icons/facebook/000/007/666/_57c8a1a431a592af806925e57258202f.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -461,7 +461,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 16px; } }
   .tile.tile-512 .tile-inner {
-    background: url('../tile-sets/udacity/512.png');
+    background: url('https://i.pinimg.com/originals/aa/63/34/aa6334692a3f9ecd1dd3b864d3223be4.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -470,7 +470,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 13px; } }
   .tile.tile-1024 .tile-inner {
-    background: url('../tile-sets/udacity/1024.png');
+    background: url('https://c1.staticflickr.com/7/6119/6854367396_72c8300ae2_c.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -479,7 +479,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 10px; } }
   .tile.tile-2048 .tile-inner {
-    background: url('../tile-sets/udacity/2048.png');
+    background: url('https://i.imgflip.com/1kr66c.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
